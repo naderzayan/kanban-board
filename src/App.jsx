@@ -19,7 +19,7 @@ function App() {
     <Box sx={{ p: 4 }}>
       <TextField
         fullWidth
-        placeholder="Search..."
+        placeholder="Search"
         sx={{ mb: 4 }}
         value={search}
         onChange={(e) => setSearch(e.target.value)}
