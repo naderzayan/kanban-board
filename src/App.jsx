@@ -3,7 +3,6 @@ import { useTasks } from "./hooks/useTasks";
 import Column from "./components/Column";
 import { useUIStore } from "./store/useUIStore";
 
-const API_URL = "http://localhost:4000/tasks";
 const columns = ["backlog", "in_progress", "review", "done"];
 
 function App() {
