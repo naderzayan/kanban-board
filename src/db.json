@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Design homepage",
+      "description": "Create hero section",
+      "column": "backlog"
+    },
+    {
+      "id": 2,
+      "title": "Setup authentication",
+      "description": "JWT implementation",
+      "column": "in_progress"
+    },
+    {
+      "id": 3,
+      "title": "Fix bugs",
+      "description": "Resolve API issues",
+      "column": "review"
+    },
+    {
+      "id": 4,
+      "title": "Deploy project",
+      "description": "Deploy to Vercel",
+      "column": "done"
+    }
+  ]
+}
